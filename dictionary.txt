@@ -1,0 +1,24 @@
+// German //		// English //
+Raesfeld		Raesfeld
+Flughafen		Airport
+Berlin			Berlin
+Bratwurst		Bratwurst
+Hauptstrasse		Main Street
+Brot			Bread
+Klimaanlage		Air Conditioning
+Rammstein		Rammstein
+Porsche			Porsche
+BMW			BMW
+Biergarten		Beer Garden
+Ratskeller		Ratskeller
+Dirndel			Dirndl
+Lederhose		Lederhose
+Schloss			Castle
+Wettewerbsfaehig	Competitive
+Mehlhase		Flour Bunny
+Gebaeck			Biscuits
+Baeckerei		Bakery
+Hund			Hund
+Doener			Doner Kebab
+Apfelkuchen		Apfelkuchen
+Eltz			Eltz
