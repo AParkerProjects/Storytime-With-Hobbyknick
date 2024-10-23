@@ -1,3 +1,8 @@
+=========================================================================
+Hobbyknick Dictionary:
+By: Anthony Parker, Zeyneb Eser, Anne Himes, Andrew Tellez, Nicolas Eder
+=========================================================================
+
 // German //		// English //
 Raesfeld		Raesfeld
 Flughafen		Airport
@@ -22,3 +27,8 @@ Hund			Hund
 Doener			Doner Kebab
 Apfelkuchen		Apfelkuchen
 Eltz			Eltz
+
+=========================================================================
+
+
+=========================================================================
